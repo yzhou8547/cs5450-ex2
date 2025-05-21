@@ -2,6 +2,9 @@
 
 A simple shopping app built with React Native. Users can browse products by categories and check product inventory.
 
+![til](https://github.com/yzhou8547/cs5450-ex2/blob/main/demonstrated.gif)
+
+
 ![image](app.png)
 
 
